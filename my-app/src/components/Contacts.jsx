@@ -13,7 +13,7 @@ const Contact = () => {
         <li>
           <strong>LinkedIn:</strong>{" "}
           <a
-            href="https://www.linkedin.com/in/your-linkedin"
+            href="https://www.linkedin.com/in/snehasinha5"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -23,7 +23,7 @@ const Contact = () => {
         <li>
           <strong>GitHub:</strong>{" "}
           <a
-            href="https://github.com/your-github"
+            href="https://github.com/snehasinha98"
             target="_blank"
             rel="noopener noreferrer"
           >
