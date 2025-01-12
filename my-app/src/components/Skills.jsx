@@ -12,7 +12,7 @@ import reduxIcon from "../assets/icons/redux.svg";
 // import expressIcon from "../assets/icons/express-icon.svg";
 import azuredevopsIcon from "../assets/icons/azure.svg";
 import gitIcon from "../assets/icons/git.svg";
-// import powerautomateIcon from "../assets/icons/powerautomate-icon.svg";
+import powerautomateIcon from "../assets/icons/powerautomate.svg";
 import tableauIcon from "../assets/icons/tableau.svg";
 
 const Skills = () => {
@@ -91,11 +91,11 @@ const Skills = () => {
               <span>Git</span>
             </div>
             <div className="skill-card">
-              {/* <img
+              <img
                 src={powerautomateIcon}
                 alt="Power Automate"
                 className="skill-icon"
-              /> */}
+              />
               <span>Power Automate</span>
             </div>
           </div>
